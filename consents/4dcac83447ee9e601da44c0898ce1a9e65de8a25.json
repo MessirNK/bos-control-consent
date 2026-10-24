@@ -1,0 +1,7 @@
+{
+  "sha": "4dcac83447ee9e601da44c0898ce1a9e65de8a25",
+  "waives": "16a652156b5d5d9e17400a9c77173228",
+  "expires": "2026-10-31T00:00:00Z",
+  "issuedBy": "MessirNK",
+  "what": "ПГ-13 PR #80: в job platform ci.yml добавлена env SUPABASE_INTERNAL_IMAGE_REGISTRY=docker.io — обход анонимного предела public.ecr.aws при supabase start, образы с Docker Hub (вход DOCKERHUB_TOKEN)."
+}
