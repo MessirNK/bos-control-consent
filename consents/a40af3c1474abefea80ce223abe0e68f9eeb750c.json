@@ -1,0 +1,1 @@
+{"repo":"MessirNK/bos","sha":"a40af3c1474abefea80ce223abe0e68f9eeb750c","waives":"7d6903a8389f78182f5c84023d078425","expires":"2026-11-02T00:00:00-05:00","issuedBy":"MessirNK","what":"ПГ-13, путь A, PR #81: в образец контрольной проверки platform добавлена уже слитая переменная SUPABASE_INTERNAL_IMAGE_REGISTRY=docker.io. Только это изменение."}
